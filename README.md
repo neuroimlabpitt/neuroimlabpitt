@@ -1,5 +1,5 @@
 - 👋 Hi, we're @neuroimlabpitt (University of Pittsburgh)
-- 👀 We're interested in Neuroimaging, Neuroscience, Neurovasclular Coupling
+- 👀 We're interested in Assessing brain function and dysfunction, Neuroimaging, Neuroscience, Neurovasclular Coupling
 - 📫 How to reach me neuroimlabpitt@gmail.com
 
 <!---
